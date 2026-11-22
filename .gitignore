@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Dados de prospecção (empresas e CPFs de terceiros) — só na máquina local
+CONCATENADA.xlsx
